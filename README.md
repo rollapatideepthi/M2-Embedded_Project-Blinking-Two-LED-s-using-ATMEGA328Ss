@@ -99,4 +99,9 @@ Communication between electronic devices is like communication between humans. B
 . serial
 . parallel
 
+# wirless
+1. Wi-Fi
+2. Wi-Fi direct
+3. Bluetooth
+4. RF
 
