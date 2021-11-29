@@ -80,3 +80,23 @@ digitalWrite() takes two arguments, the pin number and the level of voltage, eit
 The function digitalwrite() is used to apply either HIGH or LOW voltage digitalWrite() takes two arguments, the pin number and the level of voltage, either HIGH or LOW, as we have discussed above. digitalWrite(led, HIGH); // turn the LED on (HIGH is the voltage level)
 
 
+
+
+
+
+
+
+
+# Communication Protocols
+
+Communication between electronic devices is like communication between humans. Both sides need to speak the same language. In electronics, these languages are called communication protocols.
+
+ The basics of the three most common protocols: 
+ 1. Serial Peripheral Interface (SPI) 
+ 2. Inter-Integrated Circuit (I2C) 
+ 3.  Universal Asynchronous Receiver/Transmitter (UART) driven communication.
+
+. serial
+. parallel
+
+
