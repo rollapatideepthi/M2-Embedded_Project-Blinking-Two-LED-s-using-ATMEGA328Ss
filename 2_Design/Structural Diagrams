@@ -1,1 +1,8 @@
 
+# Structure of two LED's
+
+The structure of red and green LED is shown below:
+
+![image](https://static.javatpoint.com/tutorial/arduino/images/arduino-blinking-two-led.png)
+
+The long terminal is called Anode (positive charged), and the short terminal is called Cathode (negative charged).
